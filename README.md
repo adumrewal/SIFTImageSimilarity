@@ -18,7 +18,7 @@ This repo provides a working interactive code to use SIFT algorithm for image si
 |<img src="./robert1.jpeg" alt="drawing" width="200"/>|<img src="./tom1.jpeg" alt="drawing" width="200"/>|0.92|No|
 |<img src="./eiffel1.jpeg" alt="drawing" width="200"/>|<img src="./darkknight2.jpeg" alt="drawing" width="200"/>|0.35|No|
 
-The codes available in this repo are tuned specifically to provide results for comparing images which have had the same parent (this means they could be cropped and edited versions of some image). A cut-off of 10% on the score would do the trick.
+The codes available in this repo are tuned specifically to provide amazing results for images which have had the same parent (this means they could be cropped and edited versions of some image). A cut-off of 10% on the score would do the trick.
 If you want the codes for identifying similar objects like Taj1 vs Taj2 or Eiffel1 vs Eiffel2, feel free to reach out to me. I am working on it parallely.<br>
 **I really wished Robert and Tom to match though** (cries in the corner) #3000 <3
 
