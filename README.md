@@ -47,3 +47,10 @@ SIFT *was* patented, but it has expired.
 This repo is primarily meant for beginners, but feel free to use my code any way you want, commercial or otherwise. All I ask is that you cite or share this repo.
 
 You can find the original (now expired) patent [here](https://patents.google.com/patent/US6711293B1/en) (Inventor: David G. Lowe. Assignee: University of British Columbia.).
+
+### Understanding the SIFT algorithm:
+For those, looking for resources to help understand the SIFT algorithm, here is an amazing 5 minute video:
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=4AvTMVD9ig0"><img src="https://img.youtube.com/vi/4AvTMVD9ig0/0.jpg" alt="SIFT - 5 Minutes with Cyrill"></a>
+</div>
