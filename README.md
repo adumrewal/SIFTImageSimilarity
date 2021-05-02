@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/status-Active-green" height="20"> <img src="https://img.shields.io/github/issues/adumrewal/SIFTImageSimilarity" height="20"> <img src="https://img.shields.io/github/stars/adumrewal/SIFTImageSimilarity" height="20"> <img src="https://img.shields.io/github/license/adumrewal/SIFTImageSimilarity" height="20"> <img src="https://img.shields.io/badge/language-python-yellow" height="20">
+
 # SIFTImageSimilarity
 This repo provides a working interactive code to use SIFT algorithm for image similarity. I have also presented some of the results. Check them out and let me know if you need something more.
 
