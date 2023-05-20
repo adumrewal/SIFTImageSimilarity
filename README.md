@@ -19,13 +19,13 @@ Just run the following command to install all dependencies:
 ## Results
 |Image 1 vs Image 2|Match (%)|Similar|
 |:-:|:-:|:-:|
-|<img src="./data/results/book1vsbook2.png" alt="drawing" width="400"/>|9.75|Yes|
-|<img src="./data/results/ironman1vsironman2.png" alt="drawing" width="400"/>|60.86|Yes|
-|<img src="./data/results/ironman1vsironman3.png" alt="drawing" width="400"/>|48.14|Yes|
-|<img src="./data/results/eiffel1vseiffel2.png" alt="drawing" width="400"/>|0.94|No|
-|<img src="./data/results/taj1vsironman2.png" alt="drawing" width="400"/>|0.0|No|
-|<img src="./data/results/darkknight1vsdarkknight2.png" alt="drawing" width="400"/>|31.26|Yes|
-|<img src="./data/images/robert1.jpeg" alt="drawing" width="200"/><img src="./data/images/tom1.jpeg" alt="drawing" width="200"/>|0.18|No|
+|<img src="./data/results/book1vsbook2.jpg" alt="drawing" width="400"/>|9.75|Yes|
+|<img src="./data/results/ironman1vsironman2.jpg" alt="drawing" width="400"/>|60.86|Yes|
+|<img src="./data/results/ironman1vsironman3.jpg" alt="drawing" width="400"/>|48.14|Yes|
+|<img src="./data/results/eiffel1vseiffel2.jpg" alt="drawing" width="400"/>|0.94|No|
+|<img src="./data/results/taj1vsironman2.jpg" alt="drawing" width="400"/>|0.0|No|
+|<img src="./data/results/darkknight1vsdarkknight2.jpg" alt="drawing" width="400"/>|31.26|Yes|
+|<img src="./data/images/robert1.jpg" alt="drawing" width="200"/><img src="./data/images/tom1.jpg" alt="drawing" width="200"/>|0.18|No|
 
 The codes available in this repo are tuned such that any score greater than 1.0 means they are a possible match. It works well with rotation and for images captured from different angles as well. However, if it is a 3D object (something with holes/gaps in between) and the view changes completely, it might not be possible for the algorithm to detect stuff. Depending on the use case and how strict you want the comparison, you can tune some parameters and also the cut-off.<br>
 **I really wished Robert and Tom to match though** (cries in the corner) #3000
